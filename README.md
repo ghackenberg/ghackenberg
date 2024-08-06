@@ -1,3 +1,5 @@
+![](./covers/github.png)
+
 ## 👋 Welcome message
 
 **I am happy you found your way to my GitHub profile page!**
